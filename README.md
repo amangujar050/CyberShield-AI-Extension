@@ -204,8 +204,8 @@ Known safe domains aur suspicious TLDs ki list se match karta hai.
 
 **Aman Gujar**
 - 📚 BSAI Student | Section A | B2533012
-- 🎓 Submitted To: Sir Usama Khalid
-- 📌 Based on: AI in Cybersecurity Presentation
+- 🎓 Submitted To: Sir Anwer Ali
+- 📌 Based on: Ai chorme Extension 
 
 ---
 
