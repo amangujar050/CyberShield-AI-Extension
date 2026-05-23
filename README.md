@@ -1,4 +1,4 @@
-# 🛡️ CyberShield AI — Chrome Extension
+<img width="470" height="604" alt="image" src="https://github.com/user-attachments/assets/a14ea5e3-06d7-4384-a4b7-5e4108cc4dd5" /># 🛡️ CyberShield AI — Chrome Extension
 
 > **AI-powered cybersecurity extension jo automatically phishing, malware, aur suspicious websites detect karta hai — real time mein!**
 
@@ -45,18 +45,12 @@ Yeh extension **AI in Cybersecurity** presentation ke concepts par based hai:
 ┌─────────────────────────────────────┐
 │  🛡️ CYBERSHIELD AI   THREAT ACTIVE ● │
 ├─────────────────────────────────────┤
-│         THREAT SCORE                │
-│              ╭───╮                  │
-│             ( 15  )  ← LOW RISK     │
-│              ╰───╯                  │
-│  🔗 https://example.com             │
-├─────────────────────────────────────┤
-│  📧 Phishing  CLEAN ✓               │
-│  💀 Malware   CLEAN ✓               │
-│  🔒 SSL       SECURE ✓              │
-│  📊 Anomaly   NORMAL ✓              │
-└─────────────────────────────────────┘
-```
+
+
+
+
+<img width="470" height="604" alt="image" src="https://github.com/user-attachments/assets/4267119d-3d65-4e7a-859e-73e09dc0d47c" />
+
 
 ---
 
